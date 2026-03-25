@@ -1,3 +1,4 @@
 # vijayasree
-This is my first git repository
-author - vijayasree
+This is my first git repository,
+<br>
+Author - vijayasree
